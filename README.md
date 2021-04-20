@@ -1,1 +1,1 @@
-# Nombres Premiers [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Undreak/Nombres_Premiers/blob/main/Nombres_Premiers.ipynb)
+# Nombres Premiers [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Undreak/MML_Nombres_Premiers/blob/master/Nombres_Premiers.ipynb)
